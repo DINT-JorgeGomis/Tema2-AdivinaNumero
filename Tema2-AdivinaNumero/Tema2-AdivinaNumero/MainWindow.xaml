@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_AdivinaNumero"
         mc:Ignorable="d"
-        Title="MainWindow" Height="309" Width="800">
+        Title="Adivina número" Height="309" Width="800">
     <Grid>
         <Label Content="Adivina el número del 0 al 100: " Margin="35,65,176,0" VerticalAlignment="Top" Height="77" FontSize="36" FontFamily="Cooper Black"/>
         <TextBox x:Name="Caja" HorizontalAlignment="Left" Margin="48,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206" Height="49" FontSize="22" BorderBrush="Black"/>
